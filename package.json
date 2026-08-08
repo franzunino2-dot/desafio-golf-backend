@@ -1,0 +1,13 @@
+{
+  "name": "desafio-golf-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Backend en vivo para el desafío de golf (1816)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
